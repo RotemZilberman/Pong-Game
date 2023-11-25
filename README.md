@@ -56,4 +56,3 @@ The code is organized into the following files:
 - Paddle.java: Class representing the paddle.
 - Ball.java: Class representing the ball.
 - GameUtils.java: Utility class for console input/output.
-- 
