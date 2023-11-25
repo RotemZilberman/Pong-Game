@@ -30,13 +30,14 @@ Make sure you have the following installed before running the game:
    git clone https://github.com/your-username/pong-java.git
    ```
    Alternatively, download the ZIP file and extract it.
-2. Navigate to the project directory:
+   
+3. Navigate to the project directory:
    ```bash
    cd pong-java
-3. Compile the Java source code:
+4. Compile the Java source code:
    ```bash
    javac PongGame.java
-4. Run the game:
+5. Run the game:
    ```bash
    java PongGame
    
