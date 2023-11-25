@@ -7,8 +7,6 @@
 - [Installation](#installation)
 - [How to Play](#how-to-play)
 - [Code Structure](#code-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This is a simple implementation of the classic Pong game in Java. The game features two paddles, a ball, and a scoring system. It's designed to run in a console or terminal environment, providing a nostalgic experience of the original Pong game.
@@ -30,6 +28,7 @@ Make sure you have the following installed before running the game:
 1. Clone the repository to your local machine using the following command:
    ```bash
    git clone https://github.com/your-username/pong-java.git
+   ```
    Alternatively, download the ZIP file and extract it.
 2. Navigate to the project directory:
    ```bash
