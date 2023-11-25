@@ -11,7 +11,8 @@
 ## Introduction
 This is a simple implementation of the classic Pong game in Java. The game features two paddles, a ball, and a scoring system. It's designed to run in a console or terminal environment, providing a nostalgic experience of the original Pong game.
 
-![Pong Screenshot](screenshots/pong_screenshot.png)
+![image](https://github.com/RotemZilberman/Pong-Game/assets/112009232/35afaa43-aa4a-46f5-9450-62d6acb80422)
+
 
 ## Features
 - Two-player gameplay
